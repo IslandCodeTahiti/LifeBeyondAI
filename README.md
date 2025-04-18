@@ -35,3 +35,22 @@ All this feeds into a neural architecture to **evaluate life probability across 
 
 ## 📦 Getting Started
 soon
+
+
+---
+## 👥 Contributing
+We welcome all minds – dreamers, scientists, hackers, sci-fi fans.
+
+  1.Fork the repo
+  2.Create your feature branch (git checkout -b feat/mars-data-import)
+  3.Commit your changes (git commit -m 'feat: added Mars dataset')
+  4.Push and open a PR 🚀
+
+Contributions can be code, theories, data sources, or crazy ideas – yes, really.
+
+---
+## 🛸 Special Thanks
+- All space agencies sharing their data for free 💙
+- Scientists who ask “what if?”
+- Sci-fi that keeps us wondering
+- The universe, for being weird
