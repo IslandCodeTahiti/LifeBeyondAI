@@ -31,6 +31,7 @@ All this feeds into a neural architecture to **evaluate life probability across 
 - 🌌 Probabilistic modeling for life estimation
 - 🗃️ Knowledge graphs to connect theories, locations, and hypotheses
 
+**[Find all the dev details on the wiki here](https://github.com/IslandCodeTahiti/LifeBeyondAI/wiki)
 ---
 
 ## 📦 Getting Started
